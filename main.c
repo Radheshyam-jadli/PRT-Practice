@@ -13,3 +13,8 @@ int main() {
 int Feature1() {
 	//sample code for feature1 branch
 }
+
+int feature() {
+	//sample code for feature 1
+
+}
