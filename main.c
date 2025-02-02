@@ -10,8 +10,8 @@ int main() {
     return 0;
 }
 
-int Feature1() {
-	//sample code for feature1 branch
+int Feature2() {
+	//sample code for feature2 branch
 }
 
 int feature() {
